@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\49541849830\\Documents\\SENAI 2020\\2Semestre\\sprint2-backend\\projeto-peoples\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\49541849830\\Documents\\1s2020-t2-sprint-2-backend-peoples\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi.csproj",
       "projectName": "Senai.Peoples.WebApi",
-      "projectPath": "C:\\Users\\49541849830\\Documents\\SENAI 2020\\2Semestre\\sprint2-backend\\projeto-peoples\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi.csproj",
+      "projectPath": "C:\\Users\\49541849830\\Documents\\1s2020-t2-sprint-2-backend-peoples\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi.csproj",
       "packagesPath": "C:\\Users\\49541849830\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\49541849830\\Documents\\SENAI 2020\\2Semestre\\sprint2-backend\\projeto-peoples\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\49541849830\\Documents\\1s2020-t2-sprint-2-backend-peoples\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
